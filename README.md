@@ -1,8 +1,23 @@
 ## My Experiences
 <div>
 
+<style>
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+  td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  img {
+    display: block;
+    margin: auto;
+  }
+</style>
+
 ### Javascript:
-| Node.js | Next.Js | React.js | React Native | Typescript | Discord.JS |
+| Node.js | Next.Js | React.Js | React Native | Typescript | Discord.JS |
 |----------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React Native" alt="React Native" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.JS" alt="Discord.JS" width="55" height="55"/> |
 
