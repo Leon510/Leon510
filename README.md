@@ -1,8 +1,8 @@
 ## My Experiences
 
 ### Frontend Development:
-| HTML | CSS | React.js | React Native | TailwindCSS |
-|------|-----|----------|--------------|-------------|
+| HTML | CSS | React.js | Native | TailwindCSS |
+|------|-----|----------|--------|-------------|
 | <div style="text-align: center;"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/></div> | <div style="text-align: center;"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/></div> | <div style="text-align: center;"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="55" height="55"/></div> | <div style="text-align: center;"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React Native" alt="React Native" width="55" height="55"/></div> | <div style="text-align: center;"><img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55"/></div> |
 
 ### Backend Development:
